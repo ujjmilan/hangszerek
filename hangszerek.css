@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+body {
+    background: url("hangszerek.png");
+    background-size: 300px;
+}
+
+.container{
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid bisque;
+    border-radius: 6px;
+}
+
+h1{
+    font-family: Great Vibes;
+    font-size: 100px;
+    text-align: center;
+}
+
+.barna {
+    color: brown;
+}
+
+.piros {
+    color: red;
+}
+
+.kek {
+    color: blue;
+}
+
+.zold {
+    color: green;
+}
+
+.fk {
+    font-weight: bold;
+}
+
+.jel {
+    text-align: center;
+    margin: 0;
+    font-size: 6em;
+}
+
+.kepalairas {
+    font-style: italic;
+    height: 30px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.ul {
+    list-style-image: url(dob-felsorolas.png);
+}
